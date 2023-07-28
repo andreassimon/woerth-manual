@@ -1,1 +1,0 @@
-# woerth-manual

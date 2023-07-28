@@ -1,0 +1,3 @@
+== woerth-manual
+
+    apt-get install ruby-asciidoctor-pdf
