@@ -1,5 +1,5 @@
-name: GitHub Actions Demo
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+name: Wörth Manual PDF
+run-name: ${{ github.actor }} triggered a new build 🚀
 on: [push]
 jobs:
   Explore-GitHub-Actions:
@@ -15,6 +15,9 @@ jobs:
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
+      - name: Install Asciidoctor PDF
+        run: |
+          apt-get install ruby-asciidoctor-pdf
       - name: Build the PDF
         run: |
           ./build.sh
