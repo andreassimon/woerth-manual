@@ -2,7 +2,7 @@ name: Wörth Manual PDF
 run-name: ${{ github.actor }} triggered a new build 🚀
 on: [push]
 jobs:
-  Explore-GitHub-Actions:
+  Build-Woerth-Manual-PDF:
     runs-on: ubuntu-latest
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
@@ -17,7 +17,7 @@ jobs:
           ls ${{ github.workspace }}
       - name: Install Asciidoctor PDF
         run: |
-          apt-get install ruby-asciidoctor-pdf
+          sudo apt-get install ruby-asciidoctor-pdf
       - name: Build the PDF
         run: |
           ./build.sh
