@@ -17,34 +17,51 @@ repräsentativ
 
 == Mitwirkende
 
-== Bauleitung
+=== Bauleitung
 Siegfried Söhnel
 
-== Bauunternehmen Kettler
+=== Finanzierung
+Sparkasse Badbergen, Philipp Eckelt
+
+=== Visualisierung
+
+Ralf Schlütee
+
+=== Denkmalschutz
+Andrea Lampe
+Oldenburg
+
+=== Bauunternehmen Kettler
 Heike Kettler, Rita Feindt
 Hartmut,???
 
-≈≈ Holzbau Budke
+≈≈= Holzbau Budke
 - Martin
 - Jonas
 - Mike
 
-== Heizung / Sanitär Koste
+=== Gerüstbau
+
+=== Malerarbeiten Kiy
+
+=== Fensterbau Rolfes
+
+=== Heizung / Sanitär Koste
 - Marcel
 Patrick Bernsen
 Manuela Weymann
 Holger Weymann
 
-≈≈ Kachel und Kamin Anten
+≈≈= Kachel und Kamin Anten
 Michael Anten, ?, ?
 
-== Küche Santel
+=== Küche Santel
 - Walter Gülker
 
-== Küche Ortland
+=== Küche Ortland
 - Insa Morthorst
 
-== Elektro Prinz
+=== Elektro Prinz
 - Uwe Klostermeyer
 
 == Handwerker
