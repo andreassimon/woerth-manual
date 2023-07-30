@@ -10,14 +10,20 @@ include::raumkonzepte/index.adoc[]
 
 == Chronik
 
+=== 2023
+
 [%autowidth]
 [cols="1,1"]
+[frame=none,grid=none]
 |===
-|27. Juli
+|**27. Juli**
 |Besuch bei Fliesen Wolski
 
-|28. Juli
+|**28. Juli**
 |Detailplanung Badezimmer mit Manuela Weymann, Besuch bei Fahling und Frieling
+
+|**29. Juli**
+|Besichtigung bei Mosecker in Lingen und Hardi in Bramsche
 |===
 
 == Mitwirkende
