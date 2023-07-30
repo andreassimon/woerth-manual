@@ -26,5 +26,5 @@ jobs:
         with:
           name: Wörth Manual PDF
           path: |
-            *.pdf
+            index.pdf
       - run: echo "🍏 This job's status is ${{ job.status }}."
