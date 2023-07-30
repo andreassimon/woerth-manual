@@ -1,3 +1,6 @@
+= Auf der Wörther Buch
+
+
 == Raumkonzepte
 
 === Büro
@@ -12,8 +15,15 @@ repräsentativ
 
 == Chronik
 
-27. Juli: Besuch bei Fliesen Wolski
-28. Juli: Detailplanung Badezimmer mit Manuela Weymann, Besuch bei Fahling und Frieling
+[%autowidth]
+[cols="1,1"]
+|===
+|27. Juli
+|Besuch bei Fliesen Wolski
+
+|28. Juli
+|Detailplanung Badezimmer mit Manuela Weymann, Besuch bei Fahling und Frieling
+|===
 
 == Mitwirkende
 
