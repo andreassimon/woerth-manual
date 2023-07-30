@@ -1,4 +1,4 @@
-name: Wörth Manual PDF
+name: Auf der Wörther Buch PDF
 run-name: ${{ github.actor }} triggered a new build 🚀
 on: [push]
 jobs:
