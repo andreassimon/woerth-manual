@@ -6,17 +6,7 @@
 [preface]
 == Vorwort
 
-== Raumkonzepte
-
-=== Büro
-
-=== Schlafzimmer
-
-=== Badezimmer
-
-=== WC
-
-repräsentativ
+include::raumkonzepte/index.adoc[]
 
 == Chronik
 
