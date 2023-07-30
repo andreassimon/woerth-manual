@@ -1,3 +1,8 @@
 == woerth-manual
 
     apt-get install ruby-asciidoctor-pdf
+
+
+== Docs
+ - https://docs.asciidoctor.org/asciidoc/latest/
+ - https://docs.asciidoctor.org/pdf-converter/latest/convert-to-pdf/
