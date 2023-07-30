@@ -1,5 +1,10 @@
 = Auf der Wörther Buch
+:doctype: book
+// :preface-title: Vorwort 
+:toc: 
 
+[preface]
+== Vorwort
 
 == Raumkonzepte
 
