@@ -1,12 +1,18 @@
 == Raumkonzepte
 
-=== Büro
+=== Erdgeschoss
 
-=== Schlafzimmer
+=== 1. Obergeschoss
 
-=== Badezimmer
+==== Büro
 
-=== WC
+==== Schlafzimmer
+
+include::Badezimmer/index.adoc[leveloffset=2]
+
+==== WC
 
 repräsentativ
+
+// include::raumkonzept-template.adoc[]
 
