@@ -1,0 +1,3 @@
+## Das Wörth Wide Web
+
+image::woerth-wide-web/netzwerk-plan.jpg[Tiger,200,200,float="right",align="center"]

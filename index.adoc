@@ -8,7 +8,7 @@
 
 // include::LAN/netzwerk-plan.pdf[]
 // 
-include::LAN/index.adoc[]
+include::woerth-wide-web/index.adoc[]
 include::raumkonzepte/index.adoc[]
 
 == Chronik
