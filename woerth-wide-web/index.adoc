@@ -1,3 +1,8 @@
 ## Das Wörth Wide Web
 
+### Glasfaser-Anbindung
 image::woerth-wide-web/netzwerk-plan.jpg[Tiger,200,200,float="right",align="center"]
+
+### Local Area Network
+
+### Wifi 6
