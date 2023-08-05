@@ -2,17 +2,19 @@
 
 === Erdgeschoss
 
+include::eg-eingangsbereich.adoc[leveloffset=2]
+
+include::eg-badezimmer.adoc[leveloffset=2]
+
 === 1. Obergeschoss
 
-==== Büro
+include::buero.adoc[leveloffset=2]
 
-==== Schlafzimmer
+include::og-schlafen.adoc[leveloffset=2]
 
-include::Badezimmer/index.adoc[leveloffset=2]
+include::og-badezimmer.adoc[leveloffset=2]
 
-==== WC
-
-repräsentativ
+include::og-wc.adoc[leveloffset=2]
 
 // include::raumkonzept-template.adoc[]
 

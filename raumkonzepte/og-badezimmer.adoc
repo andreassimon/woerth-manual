@@ -9,14 +9,7 @@ Innenarchitektur berücksichtigt werden sollten:
 
 === Zweck und Funktion
 
-Definiere den Zweck des Raumes und identifiziere die spezifischen
-Funktionen, die er erfüllen soll. Zum Beispiel kann ein Wohnzimmer als
-gemütlicher Rückzugsort dienen, während ein Arbeitszimmer funktional und
-produktiv sein sollte.
-
-- Wohnen
-
-- Arbeit
+Erholen bei einem Tag am Strand
 
 === Skizze der Inneneinrichtung
 
@@ -75,7 +68,7 @@ verschiedenen Stilen sein.
 
 === Lichtkonzept
 
-Wohnen (3000K) Arbeiten (6000K)
+Wohnen (3000K)
 
 100 lm / qm 300lm / qm
 
